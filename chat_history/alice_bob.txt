@@ -1,0 +1,10 @@
+bob:  hii
+alice:  hello
+[2026-06-24T17:18:15.606331100] bob:  hello
+[2026-06-24T17:18:36.876474300] alice:  hii
+[2026-06-26T21:47:17.473478400] bob: hii
+[2026-06-26T21:47:25.671312300] alice:  hello
+[2026-06-26T21:51:20.898930900] alice sent a file: wedding card.jpg (427308 bytes)
+[2026-06-26T22:18:13.796831500] bob:  hellooo
+[2026-06-26T22:18:21.339440300] alice:  heyyyyy
+[2026-06-26T22:21:32.208073100] alice sent a file: wedding card.jpg (427308 bytes)
